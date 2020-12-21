@@ -2,9 +2,9 @@
 
 ---
 
-### Category Name 1 
+### Capstone Project 1 
 
-[Project 1 Title](/sample_page)
+[Solid Waste Management](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
