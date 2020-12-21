@@ -4,7 +4,7 @@
 
 ### Capstone Project 1 
 
-[Solid Waste Management](/sample_page)
+[Solid Waste Management](https://github.com/chpinglim/CapstoneProj2)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
